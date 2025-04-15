@@ -1,4 +1,4 @@
-## Hi there, I was expeting you
+## Hi there, I was expecting you
 
 <!--
 **samuelmichaelx/samuelmichaelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
